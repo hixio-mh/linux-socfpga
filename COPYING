@@ -16,3 +16,4 @@ In addition, other licenses may also apply. Please see:
 	Documentation/process/license-rules.rst
 
 for more details.
+arch/arm/configs/socfpga_defconfig
